@@ -5,6 +5,6 @@
 
 /*topBar*/
 .topBar{height: 31px;background-color: #F7F7F7;line-height: 31px;}
-.collection{background: url(../images/icon/collection.jpg) left center no-repeat;
-           padding-left: 19px; font-weight: bold;  
+.collection{background: url(../images/icon/collection.jpg) left center no-repeat; padding-left: 19px; font-weight: bold;  
 }
+.topBar a:hover{color: red};
