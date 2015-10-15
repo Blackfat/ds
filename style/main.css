@@ -64,7 +64,7 @@ background-color: #FF7700
 .banner_sm,
 .banner_sm img{width:190px; height:400px;}
 .banner_sm .imgBox{width:380px; height:400px;}
-/*商品列表*/
+/*商品分类*/
 .shopTit{height:44px; font-family:"Microsoft YaHei", "微软雅黑"; line-height:44px;margin-bottom:15px;}
 .shopTit .icon {width: 44px;height: 44px;float: left;background:url(../images/icon/shopIcon.jpg) left top no-repeat;}
 .shopTit h3{font-size: 24px;float: left;font-weight:normal; padding-left:15px;}
@@ -72,3 +72,14 @@ background-color: #FF7700
 .more :hover{text-decoration: underline;}
 /*商品列表*/
 .shopList .leftArea{width:190px;}
+
+
+
+/*foot*/
+.hr_25{ height:25px}
+.foot{text-align:center;background-color:#D4D4D4;line-height:24px;padding: 50px 0; }
+.foot i{font-style:normal;margin:0 5px;}
+.foot a{ color:#000;}
+.foot a:hover{color:#F00}
+.web{ padding-top:30px;}
+.web img{margin:0 12px;}
