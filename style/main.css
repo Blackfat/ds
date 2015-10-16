@@ -97,3 +97,26 @@ background-color: #FF7700
 .foot a:hover{color:#F00}
 .web{ padding-top:30px;}
 .web img{margin:0 12px;}
+/*购物车*/
+.stepBox{ width:396px; padding-top:26px;}
+.step{ background:url(../images/step.jpg) left top no-repeat; height:19px}
+.step_text{ color:#fff; font-size:12px; line-height:20px;}
+.step_text li{ float:left }
+.s01,.s02{ width:30%;}
+.s02{ text-align:center}
+.s03{ width:40%; text-align:right;}
+.step_text .active{ color:#F3E402; font-weight:bold}
+.shoppingCart{ padding-top:10px; }
+.shopping_item{border:#ccc solid 1px;}
+.shopping_tit{ font-size:16px; font-family:"Microsoft YaHei", "微软雅黑"; line-height:31px; text-indent:12px; background:url(../images/shopping_bg.jpg) left top repeat-x; height:31px; color:#444444;}
+.padding_shop{ padding: 25px 30px;}
+.shopping_list li{ height:24px; margin-bottom:10px;}
+.shopping_list em{ color:#F03;font-style:normal; margin-right:5px;}
+.shopping_list_text{ float:left;width:76px; line-height:24px;}
+.input{height:22px; line-height:22px\9; border:#CCC solid 1px; padding:0 6px; width:110px;}
+.affirm{width:114px; height:28px;  background:url(../images/sh_btn.jpg) left top no-repeat;}
+
+
+
+
+
